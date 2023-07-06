@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hello World!
 
-**'Hello'**
+I'm an aspiring robotics software engineer with a background in mechatronics, automation and engineering. Being an enthusiast for digital crafting, I joined the University of Maryland as a robotics student that allowed me to gain vast knowledge required in the field. All coding projects are built from scratch and follows the programming paradigms. I believe in using science to make the world a better place. 
+
+
+**`Python, C++, MATLAB, Jupyter`** 
 
 <!--
 **aaqibsb/aaqibsb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

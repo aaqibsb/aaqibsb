@@ -6,6 +6,9 @@ I'm an aspiring robotics engineer with a background in mechatronics and automati
 <a href="https://github.com/aaqibsb">
   <img height=180 align="center" src="https://github.com/aaqibsb/aaqibsb/blob/main/GIFS/gif1.gif" />
 </a>
+<a href="https://github.com/aaqibsb">
+  <img height=180 align="center" src="https://github.com/aaqibsb/aaqibsb/blob/main/GIFS/gif1.gif" />
+</a>
 
 Currently seeking opportunites for Summer and Fall 2023! 
 :robot:

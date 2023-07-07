@@ -4,16 +4,16 @@ I'm an aspiring robotics engineer with a background in mechatronics and automati
 
 <!--![](https://github.com/aaqibsb/aaqibsb/blob/main/GIFS/gif1.gif)-->
 <a href="https://github.com/aaqibsb">
-  <img height=170 align="center" src="https://github.com/aaqibsb/aaqibsb/blob/main/GIFS/gif1.gif" />
+  <img height=165 align="center" src="https://github.com/aaqibsb/aaqibsb/blob/main/GIFS/gif1.gif" />
 </a>
 <a href="https://github.com/aaqibsb">
-  <img height=170 align="center" src="https://github.com/aaqibsb/aaqibsb/blob/main/GIFS/gif2.gif" />
+  <img height=165 align="center" src="https://github.com/aaqibsb/aaqibsb/blob/main/GIFS/gif2.gif" />
 </a>
 <a href="https://github.com/aaqibsb">
-  <img height=170 align="center" src="https://github.com/aaqibsb/aaqibsb/blob/main/GIFS/gif3.gif" />
+  <img height=165 align="center" src="https://github.com/aaqibsb/aaqibsb/blob/main/GIFS/gif3.gif" />
 </a>
 <a href="https://github.com/aaqibsb">
-  <img height=170 align="center" src="https://github.com/aaqibsb/aaqibsb/blob/main/GIFS/gif4.gif" />
+  <img height=165 align="center" src="https://github.com/aaqibsb/aaqibsb/blob/main/GIFS/gif4.gif" />
 </a>
 
 

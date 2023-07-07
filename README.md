@@ -16,6 +16,7 @@ Currently seeking opportunites for Summer and Fall 2023!
 ##
 ### :bar_chart: STATS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaqibsb&layout=compact)](https://github.com/aaqibsb)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aaqibsb)](https://github.com/aaqibsb)
 
 <!--
 **aaqibsb/aaqibsb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

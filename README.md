@@ -6,14 +6,14 @@ Currently seeking opportunites for Summer and Fall 2023!
 :robot:
 
 ---
-### :hammer_and_wrench: SKILLS
+<summary><h3> :hammer_and_wrench: SKILLS </h3></summary>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,bash,html,arduino,raspberrypi,ros,cpp,py,vscode,github,docker,autocad,latex" />
   </a>
 </p>
+#
 
----
 
 <!--
 **aaqibsb/aaqibsb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

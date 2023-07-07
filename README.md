@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier&color=57F73A&multiline=true&width=500&height=100&vCenter=true&width=435&lines=%3EHello+World!;%3E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier&color=57F73A&background=000000&width=500&height=100&vCenter=true&width=435&lines=%3EHello+World!;%3E)](https://git.io/typing-svg)
 
 I'm an aspiring robotics engineer with a background in mechatronics and automation. Being an enthusiast for digital crafting, I joined the University of Maryland as a graduate student that allowed me to get my hands dirty in robotics software. All the coding projects are built from scratch and follows the programming paradigms. I am also passionate about FPV drones and love building them :).
 

@@ -15,7 +15,7 @@ Currently seeking opportunites for Summer and Fall 2023!
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaqibsb&layout=compact)](https://github.com/aaqibsb)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaqibsb)](https://github.com/aaqibsb/github-readme-stats)
 
 
 <!--

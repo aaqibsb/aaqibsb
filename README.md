@@ -14,8 +14,7 @@ Currently seeking opportunites for Summer and Fall 2023!
 </p>
 
 ##
-
-<summary><h3>:bar_chart: STATS</h3></summary>
+### :bar_chart: STATS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaqibsb&layout=compact)](https://github.com/aaqibsb)
 
 <!--

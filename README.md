@@ -18,6 +18,14 @@ Currently seeking opportunites for Summer and Fall 2023!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaqibsb&layout=compact)](https://github.com/aaqibsb)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aaqibsb&theme=github-compact)](https://github.com/aaqibsb)
 
+##
+<a href="https://github.com/aaqibsb">
+  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github-readme-stats.vercel.app/api/top-langs/?username=aaqibsb&layout=compact)" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 <!--
 **aaqibsb/aaqibsb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -5,7 +5,8 @@ I'm an aspiring robotics engineer with a background in mechatronics and automati
 Currently seeking opportunites for Summer and Fall 2023! 
 :robot:
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,ros,cpp,py,docker)](https://skillicons.dev)
+---
+[![My Skills](https://skillicons.dev/icons?i=linux,html,arduino,raspberrypi,ros,cpp,py,vscode,docker,autocad,latex,)](https://skillicons.dev)
 
 
 ---

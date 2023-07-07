@@ -5,7 +5,7 @@ I'm an aspiring robotics engineer with a background in mechatronics and automati
 Currently seeking opportunites for Summer and Fall 2023! 
 :robot:
 
----
+##
 ### :hammer_and_wrench: SKILLS 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -13,10 +13,11 @@ Currently seeking opportunites for Summer and Fall 2023!
   </a>
 </p>
 
----
+##
+<details>
 <summary><h3>:bar_chart: STATS</h3></summary>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaqibsb&layout=compact)](https://github.com/aaqibsb)
-
+</details>
 
 <!--
 **aaqibsb/aaqibsb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

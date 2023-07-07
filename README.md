@@ -5,7 +5,7 @@ I'm an aspiring robotics engineer with a background in mechatronics and automati
 Currently seeking opportunites for Summer and Fall 2023! 
 :robot:
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ros,gcp,azure,react,vue,flutter)](https://skillicons.dev)
 
 
 ---

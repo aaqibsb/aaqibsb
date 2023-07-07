@@ -4,12 +4,16 @@ I'm an aspiring robotics engineer with a background in mechatronics and automati
 
 <!--![](https://github.com/aaqibsb/aaqibsb/blob/main/GIFS/gif1.gif)-->
 <a href="https://github.com/aaqibsb">
-  <img height=180 align="center" src="https://github.com/aaqibsb/aaqibsb/blob/main/GIFS/gif1.gif" />
+  <img height=150 align="center" src="https://github.com/aaqibsb/aaqibsb/blob/main/GIFS/gif1.gif" />
 </a>
 <a href="https://github.com/aaqibsb">
-  <img height=180 align="center" src="https://github.com/aaqibsb/aaqibsb/blob/main/GIFS/gif2.gif" />
+  <img height=150 align="center" src="https://github.com/aaqibsb/aaqibsb/blob/main/GIFS/gif2.gif" />
+</a>
+<a href="https://github.com/aaqibsb">
+  <img height=150 align="center" src="https://github.com/aaqibsb/aaqibsb/blob/main/GIFS/gif3.gif" />
 </a>
 
+\
 Currently seeking opportunites for Summer and Fall 2023! 
 :robot:
 

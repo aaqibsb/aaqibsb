@@ -6,8 +6,11 @@ Currently seeking opportunites for Summer and Fall 2023!
 :robot:
 
 ---
-[![My Skills](https://skillicons.dev/icons?i=linux,html,arduino,raspberrypi,ros,cpp,py,vscode,docker,autocad,latex,)](https://skillicons.dev)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,bash,html,arduino,raspberrypi,ros,cpp,py,vscode,github,docker,autocad,latex" />
+  </a>
+</p>
 
 ---
 

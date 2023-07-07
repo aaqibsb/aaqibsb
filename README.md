@@ -16,9 +16,7 @@ Currently seeking opportunites for Summer and Fall 2023!
 ##
 <details>
   <summary><h3>:bar_chart: STATS</h3></summary>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaqibsb&layout=compact&langs_count=8&card_width=320" />
-  </a>
+  <[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
 </details>
 
 <!--

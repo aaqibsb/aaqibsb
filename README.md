@@ -6,7 +6,7 @@ Currently seeking opportunites for Summer and Fall 2023!
 :robot:
 
 ---
-### :hammer_and_wrench: My workspace
+### :hammer_and_wrench: MY FAVAOURITE TOOLS
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,bash,html,arduino,raspberrypi,ros,cpp,py,vscode,github,docker,autocad,latex" />

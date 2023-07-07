@@ -20,10 +20,10 @@ Currently seeking opportunites for Summer and Fall 2023!
 
 ##
 <a href="https://github.com/aaqibsb">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaqibsb&layout=compact" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaqibsb&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=aaqibsb&theme=github-compact" />
+  <img height=200 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=aaqibsb&theme=github-compact&card_width=300" />
 </a>
 
 <!--

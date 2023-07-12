@@ -13,7 +13,7 @@ I'm an aspiring robotics engineer with a background in mechatronics and automati
 
 <br/>
 <a href="https://github.com/aaqibsb">
-  <img height=165 align="center" src="https://github.com/aaqibsb/aaqibsb/blob/main/GIFS/gif1.gif" />
+  <img width=200 align="center" src="https://github.com/aaqibsb/aaqibsb/blob/main/GIFS/gif1.gif" />
 </a>
 <!--<a href="https://github.com/aaqibsb">
   <img height=165 align="center" src="https://github.com/aaqibsb/aaqibsb/blob/main/GIFS/gif2.gif" />

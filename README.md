@@ -1,5 +1,5 @@
 <a href="https://github.com/aaqibsb">
-  <img height=160 width=1080 align="center" src="https://github.com/aaqibsb/aaqibsb/blob/main/GIFS/gif101.gif" />
+  <img width=1080 align="center" src="https://github.com/aaqibsb/aaqibsb/blob/main/GIFS/gif101.gif" />
 </a>
 
 <br/><br/>

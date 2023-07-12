@@ -13,16 +13,16 @@ I'm an aspiring robotics engineer with a background in mechatronics and automati
 
 <br/>
 <a href="https://github.com/aaqibsb">
-  <img height=200 align="left" src="https://github.com/aaqibsb/aaqibsb/blob/main/GIFS/gif1.gif" />
+  <img height=165 align="center" src="https://github.com/aaqibsb/aaqibsb/blob/main/GIFS/gif1.gif" />
 </a>
-<!--<a href="https://github.com/aaqibsb">
+<a href="https://github.com/aaqibsb">
   <img height=165 align="center" src="https://github.com/aaqibsb/aaqibsb/blob/main/GIFS/gif2.gif" />
 </a>
 <a href="https://github.com/aaqibsb">
-  <img height=200 align="center" src="https://github.com/aaqibsb/aaqibsb/blob/main/GIFS/gif3.gif" />
-</a>-->
+  <img height=165 align="center" src="https://github.com/aaqibsb/aaqibsb/blob/main/GIFS/gif3.gif" />
+</a>
 <a href="https://github.com/aaqibsb">
-  <img height=200 align="right" src="https://github.com/aaqibsb/aaqibsb/blob/main/GIFS/gif4.gif" />
+  <img height=165 align="center" src="https://github.com/aaqibsb/aaqibsb/blob/main/GIFS/gif4.gif" />
 </a>
 
 - 🔭 I’m currently focusing on growth.

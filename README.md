@@ -1,7 +1,8 @@
+<!--
 <a href="https://github.com/aaqibsb">
   <img width=1080 align="center" src="https://github.com/aaqibsb/aaqibsb/blob/main/GIFS/gif101.gif" />
 </a>
-
+-->
 <br/><br/>
 
 <p align="center">

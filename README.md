@@ -25,7 +25,7 @@ I'm an aspiring robotics engineer with a background in mechatronics and automati
   <img height=165 align="center" src="https://github.com/aaqibsb/aaqibsb/blob/main/GIFS/gif4.gif" />
 </a>
 
-<br/><br/><br/>
+<br/><br/>
 
 - 🔭 I’m currently focusing on growth.
 - 🌱 I’m currently learning AI, ML and Finance.

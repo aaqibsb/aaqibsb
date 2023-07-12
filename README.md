@@ -27,6 +27,15 @@ I'm an aspiring robotics engineer with a background in mechatronics and automati
 </a>
 
 
+- 🔭 I’m currently focusing on growth.
+- 🌱 I’m currently learning AI, ML and Finance.
+- 👯 I’m looking to collaborate on computer vision projects.
+- 💬 Ask me about anything related to scuba diving.
+- 📫 How to reach me: in/abarodaw
+- ⚡ Fun fact: I love MoS.
+
+
+
 \
 Currently seeking opportunites for Summer and Fall 2023! 
 :robot:
@@ -48,17 +57,3 @@ Currently seeking opportunites for Summer and Fall 2023!
   <img height=180 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=aaqibsb&theme=tokyo-night" />
 </a>
 
-<!--
-**aaqibsb/aaqibsb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

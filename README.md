@@ -11,7 +11,7 @@
 
 I'm an aspiring robotics engineer with a background in mechatronics and automation. Being an enthusiast for digital crafting, I joined the University of Maryland as a graduate student that allowed me to get my hands dirty in robotics software. All the coding projects are built from scratch and follows programming paradigms. I am also passionate about FPV drones and love building them :flying_saucer:.
 
-<br/>
+###
 <a href="https://github.com/aaqibsb">
   <img height=165 align="center" src="https://github.com/aaqibsb/aaqibsb/blob/main/GIFS/gif1.gif" />
 </a>

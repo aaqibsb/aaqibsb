@@ -51,16 +51,14 @@ I'm an aspiring robotics engineer with a background in mechatronics and automati
 Currently seeking opportunites for Summer and Fall 2023! 
 :robot:
 
-##
-### :hammer_and_wrench: SKILLS 
+## :hammer_and_wrench: SKILLS 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,bash,html,arduino,raspberrypi,ros,cpp,py,vscode,github,docker,autocad,latex" />
   </a>
 </p>
 
-##
-### :bar_chart: STATS
+## :bar_chart: STATS
 <a href="https://github.com/aaqibsb">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaqibsb&layout=compact&theme=tokyonight" />
 </a>

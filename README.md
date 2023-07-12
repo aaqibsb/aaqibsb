@@ -8,7 +8,9 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Courier&pause=10000&vCenter=true&width=500&lines=>Hello+World!+This+is+Aaqib+Barodawala!"/></a>
 </p>
+
 ##
+
 <a href="https://www.linkedin.com/in/aaqibsb/">
     <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>

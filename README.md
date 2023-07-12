@@ -9,7 +9,10 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Courier&pause=10000&vCenter=true&width=500&lines=>Hello+World!+This+is+Aaqib+Barodawala!"/></a>
 </p>
 
-<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
+<a href="https://www.linkedin.com/in/aaqibsb/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 
 I'm an aspiring robotics engineer with a background in mechatronics and automation. Being an enthusiast for digital crafting, I joined the University of Maryland as a graduate student that allowed me to get my hands dirty in robotics software. All the coding projects are built from scratch and follows programming paradigms. I am also passionate about FPV drones and love building them :flying_saucer:.
 

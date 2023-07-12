@@ -2,7 +2,6 @@
   <img width=1080 align="center" src="https://github.com/aaqibsb/aaqibsb/blob/main/GIFS/gif101.gif" />
 </a>
 
-\
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier&pause=10000&vCenter=true&width=435&lines=>Hello+World!+This+is+Aaqib!)](https://git.io/typing-svg)
 

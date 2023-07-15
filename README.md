@@ -19,7 +19,6 @@
   <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=abarodaw@gmail.com">
       <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
-  [![LeetCode user aaqib25](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Faaqib25&logo=leetcode&logoColor=yellow)](https://leetcode.com/aaqib25/)
 </p>
 
 ##
